@@ -64,4 +64,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nansabi&color=blue)
 
-> *"A prompt is a request, not a rule."*
