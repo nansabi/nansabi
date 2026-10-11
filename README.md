@@ -2,7 +2,7 @@
 <h3 align="center">Data Science & AI/ML Engineer | NLP · LLM Systems · Computer Vision · AI Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F5FA8&center=true&width=600&lines=Building+Intelligent+Systems;Shipping+ML+from+data+to+deployment;Making+AI+trustworthy,+not+just+fast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F5FA8&center=true&width=700&lines=Building+Intelligent+Systems;Shipping+ML+from+data+to+deployment;Making+AI+trustworthy,+not+just+fast" />
 </p>
 
 ## 🚀 About Me
